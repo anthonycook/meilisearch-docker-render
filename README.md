@@ -10,4 +10,4 @@ Deploy Meilisearch to render.com
 - `MEILI_DB_PATH` -- where we want to persist the data. Probably don't need to change this, as it's also in the render.yaml (Default = `/meili-data`)
 - `MEILI_ENV` -- environemnt level. Options are `development` or `production`. (Default = `development`)
 
-See full list of options you can configure [here](https://docs.meilisearch.com/reference/features/configuration.html#options)
+See full list of options you can configure [here](https://meilisearch.com/docs/learn/self_hosted/configure_meilisearch_at_launch#all-instance-options)
